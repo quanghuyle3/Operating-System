@@ -1,0 +1,23 @@
+Starting command 1: child 9675 pid of parent 9674
+A1.txt = [ 
+10 30 40 50  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+]
+W1.txt = [ 
+ 1  3  4  5  1  0  0  0 
+ 2  4  5  0  0  0  0  0 
+ 1  1  5  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0 
+]
+Finished command 3: child 9675 pid of parent 9674
+Exited with exitcode = 256
